@@ -1,0 +1,26 @@
+[2:21:06 PM] Anh Ph?m Quý: http://minecraft.gamepedia.com/Crafting/vi
+[2:21:16 PM] Anh Ph?m Quý: https://vietmine.com/che-tao/
+[2:21:50 PM] Anh Ph?m Quý: Cách ch? t?o d?ng c? trong game Minecraft
+[5:10:41 PM] Anh Ph?m Quý: minecraft bring item
+[5:27:25 PM] Anh Ph?m Quý: minecraft farm enderman
+[5:53:38 PM] Anh Ph?m Quý: http://www.minecraftguides.org/mob-farms/
+
+http://minecraft.gamepedia.com/Tutorials/Diamonds
+http://www.instructables.com/id/How-to-Get-Diamonds-in-Survival-Minecraft/?ALLSTEPS
+https://www.youtube.com/watch?v=E0_3vYkqohA
+https://www.youtube.com/watch?v=gHG_vVqK2jY
+
+http://minefc.com/8-ki-quan-minecraft/
+
+Nong dan: sach phep, ngoc luc bao
+-2528/81
+
+ngua: 430/438
+
+than sat: 34-37
+vanvg: 30-34
+kimcuong: 30-32
+da do 32-34
+ngoc luu ly: 28-30
+
+3;minecraft:bedrock,230*minecraft:stone,5*minecraft:dirt,minecraft:grass,8*minecraft:sand;3;biome_1,decoration,stronghold,mineshaft,dungeon;village
